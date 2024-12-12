@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Goks/.m2/repository/org/seleniumhq/selenium/selenium-api/4.16.1/selenium-api-4.16.1.jar" sourcepath="C:/Users/Goks/.m2/repository/org/seleniumhq/selenium/selenium-api/4.16.1/selenium-api-4.16.1-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-api"/>
+			<attribute name="maven.version" value="4.16.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar_files (1)/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar_files (1)/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar_files (1)/jar_files (1)/commons-codec-1.16.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar_files (1)/jar_files (1)/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar_files (1)/jar_files (1)/commons-compress-1.25.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar_files (1)/jar_files (1)/commons-io-2.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar_files (1)/jar_files (1)/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar_files (1)/jar_files (1)/curvesapi-1.08.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar_files (1)/jar_files (1)/log4j-api-2.21.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar_files (1)/jar_files (1)/poi-5.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar_files (1)/jar_files (1)/poi-ooxml-5.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar_files (1)/jar_files (1)/poi-ooxml-lite-5.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar_files (1)/jar_files (1)/SparseBitSet-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar_files (1)/jar_files (1)/xmlbeans-5.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar_files (1)/poi-3.9.jar/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar_files (1)/dom4j-1.6.jar/dom4j-1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar_files (1)/dom4j-1.6.jar/ooxml-schemas-1.3-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
